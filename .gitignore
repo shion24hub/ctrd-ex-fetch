@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+data/
+pickles/
+models/
+images/
+outs/
+*.sav
+*.pkl
+*.csv
