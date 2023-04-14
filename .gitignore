@@ -6,6 +6,8 @@ pickles/
 models/
 images/
 outs/
+test.py
+test.ipynb
 *.sav
 *.pkl
 *.csv
